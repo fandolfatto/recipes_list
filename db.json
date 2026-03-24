@@ -5,24 +5,6 @@
       "title": "Pizza margherita",
       "description": "Tomates, mozzarella, basilic: la pizza margherita, aux couleurs du drapeau italien, est la pizza d'origine. Voici la recette pour faire votre pizza maison.",
       "ingredients" : ["400 g farine", "1 cc de sel", "15 g de levure", "2.5 dl d'eau", "2 cs de colza", "400 g sauce tomate", "200 g de mozzarella" ]
-    },
-    {
-      "id": 2,
-      "title": "Kebab maison",
-      "description": "Que diriez-vous de préparer des döner kebab maison: la marinade donne à la viande sa saveur parfaite. Sans oublier l'oignon, le chou et le pain pita. Miam!",
-      "ingredients" : ["600 g de filet de porc entier", "3 cs d'huile de colza", "1 cc de romarin séché", "1 cc de marjolaine séchée", "2 pains pita" ]
-    },
-    {
-      "id": 3,
-      "title": "Burger",
-      "description": "Faire des hamburgers maison, c’est facile! Suivez la recette pour faire vos steaks hachés de boeuf et préparer la garniture. Bien meilleur qu'au restaurant!",
-      "ingredients" : ["500 g de viande de bœuf hachée", "1 oignon finement râpé", "1 oeuf battu", "3 à 4 cs de chapelure", "4 à 8 pains à hamburger mous, toastés selon les goûts", "4 à 8 rondelles de tomates"]
-    },
-    {
-      "id": 4,
-      "title": "Lasagnes bolognaises",
-      "description": "Que faire des restes de grillades? Des lasagnes! Tout est dans cette recette anti-gaspi: une bonne sauce viande-tomate, une sauce béchamel et du fromage râpé.",
-      "ingredients" : ["600 g de grillades (viande cuite ou crue) finement hachées", "400 g de sauce tomate", "1 dl	de vin rouge ou de bouillon", "220 g de feuilles de lasagne"]
     }
   ]
 }
