@@ -15,8 +15,14 @@
     {
       "id": 3,
       "title": "Burger",
-      "description": "Faire"   
+      "description": "Faire des hamburgers maison, c’est facile! Suivez la recette pour faire vos steaks hachés de boeuf et préparer la garniture. Bien meilleur qu'au restaurant!",
+      "ingredients" : ["500 g de viande de bœuf hachée", "1 oignon finement râpé", "1 oeuf battu", "3 à 4 cs de chapelure", "4 à 8 pains à hamburger mous, toastés selon les goûts", "4 à 8 rondelles de tomates"]
+    },
+    {
+      "id": 4,
+      "title": "Lasagnes bolognaises",
+      "description": "Que faire des restes de grillades? Des lasagnes! Tout est dans cette recette anti-gaspi: une bonne sauce viande-tomate, une sauce béchamel et du fromage râpé.",
+      "ingredients" : ["600 g de grillades (viande cuite ou crue) finement hachées", "400 g de sauce tomate", "1 dl de vin rouge ou de bouillon", "220 g de feuilles de lasagne"]
     }
-
   ]
 }
