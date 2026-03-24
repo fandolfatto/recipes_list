@@ -15,7 +15,7 @@
     {
       "id": 3,
       "title": "Burger",
-      "ingredients" : ["500 g de viande de boeuf"]
+      "description": "Faire des hamburgers maison, c'est facile! Suivez la recette pour faire vos steaks hachés et préparer la garniture. Bien meilleur qu'au restaurant!",   
     }
   ]
 }
