@@ -5,17 +5,6 @@
       "title": "Pizza margherita",
       "description": "Tomates, mozzarella, basilic: la pizza margherita, aux couleurs du drapeau italien, est la pizza d'origine. Voici la recette pour faire votre pizza maison.",
       "ingredients" : ["400 g farine", "1 cc de sel", "15 g de levure", "2.5 dl d'eau", "2 cs de colza", "400 g sauce tomate", "200 g de mozzarella" ]
-    },
-    {
-      "id": 2,
-      "title": "Kebab maison",
-      "description": "Que diriez-vous de préparer des döner kebab maison: la marinade donne à la viande sa saveur parfaite. Sans oublier l'oignon, le chou et le pain pita. Miam!",
-      "ingredients" : ["600 g de filet de porc entier", "3 cs huile colza", "1 cc de romarin séché", "1 cc de marjolaine séchée", "2 pains pita"]
-    },
-    {
-      "id": 3,
-      "title": "Burger",
-      "description": "Faire"   
     }
   ]
 }
